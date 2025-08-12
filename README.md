@@ -18,7 +18,7 @@ Official Implementation of ICCV 2025 paper "[Rethinking Detecting Salient and Ca
 
 ### Download the datasets and annotation files
 
-- **[USC12K]()**
+- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing).**
 
 
 ### Register datasets
@@ -43,13 +43,13 @@ Official Implementation of ICCV 2025 paper "[Rethinking Detecting Salient and Ca
 
 ## Pre-trained models :
 - Download the pre-training weights : [sam2_hiera_large.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt). 
-- Download the pre-trained weights of USC12K: [Quark]()
+- Download the pre-trained weights on USC12K: **[Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1xyuSi-h6qImgLanlty7Bk3e97eWDrDCc/view?usp=sharing).**
 
 ## Visualization results &#x26A1;
 
 
 The visual results of  **SOTAs** on **USC12K test set**.
-- Results on the Overall Scene test set: [Quark]()/[Google]()
+- Results on the Overall Scene test set: **[Baidu](https://pan.baidu.com/s/1f2W0x7LbR0Ueu3CufT3BLQ?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1S-tz1u5eK7Ehy1gejyoC1ulEZnLiclWX/view?usp=sharing).**
 
 ## Usage
 
@@ -78,12 +78,5 @@ bash test.sh
 If this helps you, please cite this work:
 
 ```
-@inproceedings{pei2023unite,
-  title={Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation},
-  author={Pei, Jialun and Zhou, Zhangjun and Jin, Yueming and Tang, He and Pheng-Ann, Heng},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={2139--2147},
-  year={2023},
-}
 ```
 
