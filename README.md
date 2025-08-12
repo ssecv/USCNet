@@ -78,12 +78,6 @@ bash test.sh
 If this helps you, please cite this work:
 
 ```
-@inproceedings{pei2023unite,
-  title={Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy Dichotomous Image Segmentation},
-  author={Pei, Jialun and Zhou, Zhangjun and Jin, Yueming and Tang, He and Pheng-Ann, Heng},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={2139--2147},
-  year={2023},
-}
+
 ```
 
