@@ -1,7 +1,7 @@
 # USCNet [ICCV'25]
 
 
-Official Implementation of ICCV 2025 paper "[Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes](https://dl.acm.org/doi/pdf/10.1145/3581783.3611811)"
+Official Implementation of ICCV25 paper "[Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes](https://dl.acm.org/doi/pdf/10.1145/3581783.3611811)"
 
 [Zhangjun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ),[Yiping Li](https://scholar.google.com/citations?user=QUHsxCoAAAAJ&hl=en),[Chunlin Zhong](https://scholar.google.com/citations?user=ai328a4AAAAJ&hl=en),[Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Hua Li](https://scholar.google.com.sg/citations?hl=zh-CN&user=0O2iY34AAAAJ&view_op=list_works&sortby=pubdate), and[He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ)✉ 
 
