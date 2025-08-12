@@ -19,7 +19,7 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 
 ### Download the datasets and annotation files
 
-- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing)
+- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing)
 
 
 ### Register datasets
