@@ -44,7 +44,7 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 
 ## Pre-trained models :
 - Download the pre-training weights of SAM ViT-H: [sam_vit_h_4b8939.pth](https://github.com/facebookresearch/segment-anythingv). 
-- Download the pre-trained weights of USC12K: [Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)
+- Download the pre-trained weights of USC12K: [Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)/[Google]()
 
 ## Visualization results &#x26A1;
 
