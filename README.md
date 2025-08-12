@@ -42,8 +42,8 @@ Official Implementation of ICCV 2025 paper "[Rethinking Detecting Salient and Ca
 ```
 
 ## Pre-trained models :
-- Download the pre-training weights : [sam2_hiera_large.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt). 
-- Download the pre-trained weights on USC12K: **[Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1xyuSi-h6qImgLanlty7Bk3e97eWDrDCc/view?usp=sharing).**
+- Download the pre-training weights : **[sam2_hiera_large.pt](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt).**
+- Download the pre-trained weights on USC12K: **[Baidu](https://pan.baidu.com/s/1voZOkIOZGnSUjMakzG0Zjw?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1_F0icyu5Tcc7ojo4eAsaTb-SkinDCNPv/view?usp=sharing).**
 
 ## Visualization results &#x26A1;
 
