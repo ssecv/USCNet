@@ -1,0 +1,25 @@
+# Thank you for your interest. If you are intrigued by this project, you may also consider the following directions to help models better capture saliency and camouflage patterns that align with the human visual system in unconstrained scenes:
+
+# 1. **Scene-specific**  
+#    Scene-specific prompts, adapters, or losses to enhance the representational associations between different scenes.
+
+# 2. **Instance-level**  
+#    Move towards instance-level detection to promote a deeper understanding of the saliency and camouflage of instances, rather than just focusing on attention regions.
+
+# 3. **Unsupervised learning**  
+#    - Utilize LLMs, VLMs, and MLLMs with attention mechanisms to directly identify salient and camouflaged targets in a wider range of scenes, beyond mere logical coexistence.  
+#    - Alternatively, employ context prompt learning by providing scene examples to MLLMs.
+
+# 4. **Data augmentation**  
+#    Synthesize more complex scenes (e.g., Scene C) to improve the performance in such composite scenarios, where Scene C can be understood as a combination of Scene A and Scene B in training or infering processes.
+
+# 5.  Consider leveraging sam2 memory attention or a two-stage approach. For example:  
+#    - First identify salient objects and store them as memory, then recognize camouflaged objects.  
+
+#    - Theoretically, salient objects are easier to detect, while camouflaged objects require excluding salient targets to be further identified.  
+#    - Statistical analysis shows that the mask recovery for salient objects is relatively straightforward (e.g., requiring only a single point), whereas camouflaged objects are much harder to fully recover.  
+
+#    - These observations suggest that identifying camouflaged objects requires more effort. In other words, the completeness of objects recovery when the attributes are unknown can to some extent reflect whether the object is visually salient or camouflaged. 
+#      I personally believe that it will reduce the confusion rate by directly evaluating the completeness of object recovery.
+
+# Good luck!
