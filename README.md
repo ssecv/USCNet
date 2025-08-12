@@ -3,7 +3,7 @@
 
 Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes](https://dl.acm.org/doi/pdf/10.1145/3581783.3611811)"
 
-[Zhangjun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ), [Yiping Li](https://scholar.google.com/citations?user=QUHsxCoAAAAJ&hl=en), [Chunlin Zhong](https://scholar.google.com/citations?user=ai328a4AAAAJ&hl=en), [Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Hua Li](https://scholar.google.com.sg/citations?hl=zh-CN&user=0O2iY34AAAAJ&view_op=list_works&sortby=pubdate), and He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ)✉ 
+[Zhangjun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ), [Yiping Li](https://scholar.google.com/citations?user=QUHsxCoAAAAJ&hl=en), [Chunlin Zhong](https://scholar.google.com/citations?user=ai328a4AAAAJ&hl=en), [Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Hua Li](https://scholar.google.com.sg/citations?hl=zh-CN&user=0O2iY34AAAAJ&view_op=list_works&sortby=pubdate), and [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ)✉ 
 
 [[Paper]](https://arxiv.org/pdf/2412.10943); [[Official Version]]()
 
@@ -12,14 +12,14 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 ## Environment preparation
 
 ### Requirements
-- **Please refer to the link: [SAM](https://github.com/facebookresearch/segment-anything)**
+- **Please refer to the link: [SAM](https://github.com/facebookresearch/segment-anything).**
 - You may need to install Apex using pip.
 
 ## Dataset preparation :fire:
 
 ### Download the datasets and annotation files
 
-- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing)**
+- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing).**
 
 
 ### Register datasets
@@ -44,13 +44,13 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 
 ## Pre-trained models :
 - Download the pre-training weights of SAM ViT-H: **[sam_vit_h_4b8939.pth](https://github.com/facebookresearch/segment-anythingv).** 
-- Download the pre-trained weights on USC12K: **[Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1xyuSi-h6qImgLanlty7Bk3e97eWDrDCc/view?usp=sharing)**
+- Download the pre-trained weights on USC12K: **[Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1xyuSi-h6qImgLanlty7Bk3e97eWDrDCc/view?usp=sharing).**
 
 ## Visualization results &#x26A1;
 
 
 The visual results of  **SOTAs** on **USC12K test set**.
-- Results on the Overall Scene test set: **[Baidu](https://pan.baidu.com/s/1f2W0x7LbR0Ueu3CufT3BLQ?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1S-tz1u5eK7Ehy1gejyoC1ulEZnLiclWX/view?usp=sharing)**
+- Results on the Overall Scene test set: **[Baidu](https://pan.baidu.com/s/1f2W0x7LbR0Ueu3CufT3BLQ?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1S-tz1u5eK7Ehy1gejyoC1ulEZnLiclWX/view?usp=sharing).**
 
 ## Usage
 
