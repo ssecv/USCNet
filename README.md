@@ -12,7 +12,8 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 ## Environment preparation
 
 ### Requirements
-- **Please refer to the link: [SAM](https://github.com/facebookresearch/segment-anything)** 
+- **Please refer to the link: [SAM](https://github.com/facebookresearch/segment-anything)**
+- You may need to install Apex using pip.
 
 ## Dataset preparation :fire:
 
