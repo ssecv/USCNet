@@ -19,7 +19,7 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 
 ### Download the datasets and annotation files
 
-- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing)
+- **[USC12K](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/**[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing)**
 
 
 ### Register datasets
@@ -44,13 +44,13 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 
 ## Pre-trained models :
 - Download the pre-training weights of SAM ViT-H: [sam_vit_h_4b8939.pth](https://github.com/facebookresearch/segment-anythingv). 
-- Download the pre-trained weights on USC12K: [Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)/[Google](https://drive.google.com/file/d/1xyuSi-h6qImgLanlty7Bk3e97eWDrDCc/view?usp=sharing)
+- Download the pre-trained weights on USC12K: **[Baidu](https://pan.baidu.com/s/1nOe2NNy8jcHLkFqpkwux8A?pwd=9999)**/**[Google](https://drive.google.com/file/d/1xyuSi-h6qImgLanlty7Bk3e97eWDrDCc/view?usp=sharing)**
 
 ## Visualization results &#x26A1;
 
 
 The visual results of  **SOTAs** on **USC12K test set**.
-- Results on the Overall Scene test set: [Baidu](https://pan.baidu.com/s/1f2W0x7LbR0Ueu3CufT3BLQ?pwd=9999)/[Google](https://drive.google.com/file/d/1S-tz1u5eK7Ehy1gejyoC1ulEZnLiclWX/view?usp=sharing)
+- Results on the Overall Scene test set: **[Baidu](https://pan.baidu.com/s/1f2W0x7LbR0Ueu3CufT3BLQ?pwd=9999)**/**[Google](https://drive.google.com/file/d/1S-tz1u5eK7Ehy1gejyoC1ulEZnLiclWX/view?usp=sharing)**
 
 ## Usage
 
