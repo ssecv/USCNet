@@ -67,6 +67,8 @@ bash test.sh
 
 ## Acknowledgement
 
+Additional thanks to the following contributors to this project: Huaiyu Chen, Weiyi Cui, Mingxin Yang, and Mengzhe Cui from the School of Software Engineering, Huazhong University of Science and Technology.
+
 [//]: # (This work is based on:)
 
 [//]: # (- [SAM]&#40;https://github.com/facebookresearch/segment-anything&#41;)
