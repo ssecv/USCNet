@@ -19,7 +19,9 @@ Official Implementation of paper "[Rethinking Detecting Salient and Camouflaged 
 
 ### Download the datasets and annotation files
 
-- **[USC12K]()**
+- **[USC12K](通过网盘分享的文件：VOC-USC12K.zip
+链接: https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999 提取码: 9999 复制这段内容后打开百度网盘手机App，操作更方便哦 
+--来自百度网盘超级会员v5的分享)**
 
 
 ### Register datasets
