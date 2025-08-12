@@ -67,7 +67,7 @@ bash test.sh
 
 ## Acknowledgement
 
-Additional thanks to the following contributors to this project: Huaiyu Chen, Weiyi Cui, Mingxin Yang, and Mengzhe Cui from the School of Software Engineering, Huazhong University of Science and Technology.
+Additional thanks to the following contributors to this project: Huaiyu Chen, Weiyi Cui, Mingxin Yang, Mengzhe Cui, Fei Liu, Yan Xu, Haopeng Fang, and Xiaokai Zhang from the School of Software Engineering, Huazhong University of Science and Technology.
 
 [//]: # (This work is based on:)
 
