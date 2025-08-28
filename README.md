@@ -77,6 +77,8 @@ This repo is the official implementation of "[**Rethinking Detecting Salient and
        ├── SegmentationClass
 
 ```
+![USC12K Dataset Structure](asset/USC12K.png)
+
 
 ## Pre-trained models :
 - Download the pre-training weights of SAM ViT-H: **[sam_vit_h_4b8939.pth](https://github.com/facebookresearch/segment-anythingv).** 
