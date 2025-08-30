@@ -18,7 +18,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href=''><img src='https://img.shields.io/badge/Journal-Paper-red'></a>&ensp; 
   <a href='https://arxiv.org/pdf/2412.10943'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
-  <a href=''><img src='https://img.shields.io/badge/中文版-Paper-red'></a>&ensp; 
+  <a href='https://github.com/ssecv/USCNet/blob/main/asset/Rethinking_Chinese_Version.pdf'><img src='https://img.shields.io/badge/中文版-Paper-red'></a>&ensp;  
   <a href=''><img src='https://img.shields.io/badge/Page-Project-red'></a>&ensp; 
   <a href=''><img src='https://img.shields.io/badge/GDrive-Stuff-green'></a>&ensp; 
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-yellow'></a>&ensp; 
