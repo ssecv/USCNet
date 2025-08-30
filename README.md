@@ -43,7 +43,7 @@ This repo is the official implementation of "[**Rethinking Detecting Salient and
 [[Paper]](https://arxiv.org/pdf/2412.10943); [[Official Version]]()
  -->
  
-**Contact:** hetang@hust.edu.cn
+**Contact:** hetang@hust.edu.cn; zhouzhangjun@hust.edu.cn
 
 ## Environment preparation
 
