@@ -37,11 +37,12 @@
 This repo is the official implementation of "[**Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes**](https://arxiv.org/pdf/2412.10943)" (___ICCV 2025___).
 
 
-
+<!-- 
 [Zhangjun Zhou](https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ), [Yiping Li](https://scholar.google.com/citations?user=QUHsxCoAAAAJ&hl=en), [Chunlin Zhong](https://scholar.google.com/citations?user=ai328a4AAAAJ&hl=en), [Jianuo Huang](https://scholar.google.com/citations?user=fHAAbDUAAAAJ&hl=zh-CN), [Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Hua Li](https://scholar.google.com.sg/citations?hl=zh-CN&user=0O2iY34AAAAJ&view_op=list_works&sortby=pubdate), and [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ)✉ 
 
 [[Paper]](https://arxiv.org/pdf/2412.10943); [[Official Version]]()
-
+ -->
+ 
 **Contact:** hetang@hust.edu.cn
 
 ## Environment preparation
