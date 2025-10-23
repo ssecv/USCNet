@@ -102,7 +102,9 @@ bash train.sh
 ```shell
 bash test.sh
 ```
+## A PPT for introduction and future exploration
 
+Only chinese PPT now: **[MIR-Shared PPT](https://drive.google.com/file/d/1pKN9p6XC_NEAVBI2kNUFsef9gFU4qVLq/view?usp=sharing).** 
 
 ## Acknowledgement
 
