@@ -122,6 +122,14 @@ Additional thanks to the following contributors to this project: Huaiyu Chen, We
 If this helps you, please cite this work:
 
 ```
+@inproceedings{zhou2025rethinking,
+  title={Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes},
+  author={Zhou, Zhangjun and Li, Yiping and Zhong, Chunlin and Huang, Jianuo and Pei, Jialun and Li, Hua and Tang, He},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={22372--22382},
+  year={2025}
+}
+
 @article{zhou2024unconstrained,
   title={Unconstrained Salient and Camouflaged Object Detection},
   author={Zhou, Zhangjun and Li, Yiping and Zhong, Chunlin and Huang, Jianuo and Pei, Jialun and Tang, He},
