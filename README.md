@@ -129,12 +129,6 @@ If this helps you, please cite this work:
   pages={22372--22382},
   year={2025}
 }
-
-@article{zhou2024unconstrained,
-  title={Unconstrained Salient and Camouflaged Object Detection},
-  author={Zhou, Zhangjun and Li, Yiping and Zhong, Chunlin and Huang, Jianuo and Pei, Jialun and Tang, He},
-  journal={arXiv preprint arXiv:2412.10943},
-  year={2024}
 }
 ```
 
