@@ -106,7 +106,7 @@ bash test.sh
 
 Only chinese PPT now: **[MIR-Shared PPT](https://drive.google.com/file/d/1pKN9p6XC_NEAVBI2kNUFsef9gFU4qVLq/view?usp=sharing).** 
 
-**[Bilibili link](https://www.bilibili.com/video/BV1ej4yzeERR/?spm_id_from=333.337.search-card.all.click&vd_source=3a1a9e113d94e3e764501712d95d7f4e).** 
+To watch the video: **[Bilibili link](https://www.bilibili.com/video/BV1ej4yzeERR/?spm_id_from=333.337.search-card.all.click&vd_source=3a1a9e113d94e3e764501712d95d7f4e).** 
 
 ## Acknowledgement
 
