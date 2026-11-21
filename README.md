@@ -55,7 +55,7 @@ This repo is the official implementation of "[**Rethinking Detecting Salient and
 
 ### Download the datasets and annotation files
 
-- USC12K: **[Baidu](https://pan.baidu.com/s/1JkJlNh0A4NI4_0elMmo5ug?pwd=9999)**/ **[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing).**
+- USC12K: **[Google](https://drive.google.com/file/d/1pTSAtv0OkaXpA15IZQNQBiLOQ6A4n_AW/view?usp=sharing).**
 - USC12K class files: **[Google](https://drive.google.com/file/d/10cQDz1b910D2JNNQfv--WbxOZXavQTZE/view?usp=sharing)**
 
 
